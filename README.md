@@ -7,8 +7,18 @@
 
 [백준 1260 DFS와 BFS](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1260) SILVER 2 [문제 링크](https://www.acmicpc.net/problem/1260)
 
+[백준 16953 A -> B](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/16953) SILVER 2 [문제 링크](https://www.acmicpc.net/problem/16953)
+
 [백준 1303 전쟁 - 전투](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1303) SILVER 1 [문제 링크](https://www.acmicpc.net/problem/1303)
+
 [백준 2178 미로 탐색](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2178) SILVER 1 [문제 링크](https://www.acmicpc.net/problem/2178)
+
 [백준 1743 음식물 피하기](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1743) SILVER 1 [문제 링크](https://www.acmicpc.net/problem/1743)
+
+[백준 13549 숨바꼭질 3](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/13549) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/13549)
+
+[백준 12851 숨바꼭질 2](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/12851) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/12851)
+
+[백준 13913 숨바꼭질 4](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/13913) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/13913)
 
 ### 구현
