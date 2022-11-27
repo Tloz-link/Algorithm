@@ -1,8 +1,12 @@
 # Algorithm
-### 완전탐색
+### 완전 탐색
 [종만 BOARDCOVER 게임판 덮기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/BOARDCOVER) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/BOARDCOVER)
 
 [종만 CLOCKSYNC 시계 맞추기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/CLOCKSYNC) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/CLOCKSYNC)
+
+### 분할 정복
+
+[종만 QUADTREE 쿼드 트리 뒤집기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/QUADTREE) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/QUADTREE)
 
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
