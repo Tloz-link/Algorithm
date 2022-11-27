@@ -8,6 +8,8 @@
 
 [종만 QUADTREE 쿼드 트리 뒤집기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/QUADTREE) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/QUADTREE)
 
+[백준 2447 별 찍기 - 10](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2447) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/2447)
+
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
 
