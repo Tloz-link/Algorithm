@@ -10,6 +10,8 @@
 
 [종만 FENCE 울타리 잘라내기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/FENCE) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/FENCE)
 
+[종만 FANMEETING 팬미팅](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/FANMEETING) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/FANMEETING)
+
 [백준 2447 별 찍기 - 10](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2447) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/2447)
 
 ### 다익스트라
