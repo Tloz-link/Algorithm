@@ -12,7 +12,11 @@
 
 [종만 FANMEETING 팬미팅](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/FANMEETING) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/FANMEETING)
 
+[백준 1074 Z](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1074) SILVER 1 [문제 링크](https://www.acmicpc.net/problem/1074)
+
 [백준 2447 별 찍기 - 10](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2447) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/2447)
+
+[백준 2263 트리의 순회](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2263) GOLD 2 [문제 링크](https://www.acmicpc.net/problem/2263)
 
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
