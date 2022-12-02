@@ -6,11 +6,11 @@ using namespace std;
 
 int Solve(vector<vector<int>>& board, int row, int col, int size)
 {
-	// ±âÀúÁ¶°Ç
+	// ê¸°ì €ì¡°ê±´
 	if (size == 1)
 		return board[row][col];
 
-	// ºÐÇÒ
+	// ë¶„í• 
 	int cand[4]; 
 	int nSize = size / 2;
 	cand[0] = Solve(board, row, col, nSize);
@@ -18,7 +18,7 @@ int Solve(vector<vector<int>>& board, int row, int col, int size)
 	cand[2] = Solve(board, row, col + nSize, nSize);
 	cand[3] = Solve(board, row + nSize, col + nSize, nSize);
 
-	// º´ÇÕ
+	// ë³‘í•©
 	int second = -10000;
 	int largest = -10000;
 	for (int num : cand)
