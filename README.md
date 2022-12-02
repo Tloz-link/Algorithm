@@ -20,6 +20,10 @@
 
 [백준 2263 트리의 순회](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2263) GOLD 2 [문제 링크](https://www.acmicpc.net/problem/2263)
 
+### 동적 계획법
+
+[종만 WILDCARD 와일드카드](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/WILDCARD) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/WILDCARD)
+
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
 
