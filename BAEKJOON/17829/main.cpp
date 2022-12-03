@@ -1,53 +1,57 @@
 #include <iostream>
 #include <vector>
+#include <cstring>
 #include <algorithm>
 
 using namespace std;
 
-int Solve(vector<vector<int>>& board, int row, int col, int size)
+string S, W;
+int cache[101][101];
+int Solve(int w, int s)
 {
-	// 기저조건
-	if (size == 1)
-		return board[row][col];
+	// 계산한적 있는 경우는 캐싱해둔 데이터 반환
+	int& ret = cache[w][s];
+	if (ret != -1)
+		return ret;
 
-	// 분할
-	int cand[4]; 
-	int nSize = size / 2;
-	cand[0] = Solve(board, row, col, nSize);
-	cand[1] = Solve(board, row + nSize, col, nSize);
-	cand[2] = Solve(board, row, col + nSize, nSize);
-	cand[3] = Solve(board, row + nSize, col + nSize, nSize);
+	// 각 글자가 매칭이 될 경우 w, s모두 한칸 전진
+	if (w < W.size() && s < S.size() && (W[w] == '?' || W[w] == S[s]))
+		return ret = Solve(w + 1, s + 1);
 
-	// 병합
-	int second = -10000;
-	int largest = -10000;
-	for (int num : cand)
+	// w가 끝나면 s도 끝났는 지 확인
+	if (w == W.size())
+		return ret = (s == S.size());
+
+	// w가 *일경우 *에 0개를 매칭하거나 1개 이상 매칭한 경우를 재귀
+	if (W[w] == '*')
 	{
-		if (largest < num)
-		{
-			second = largest;
-			largest = num;
-		}
-		else if (second < num)
-		{
-			second = num;
-		}
+		if (Solve(w + 1, s) || (s < S.size() && Solve(w, s + 1)))
+			return ret = 1;
 	}
 
-	return second;
+	// 모두 해당 안되면 0반환
+	return ret = 0;
 }
 
 int main() {
-	int N;
-	cin >> N;
-	vector<vector<int>> board(N, vector<int>(N));
-	for (int i = 0; i < board.size(); ++i)
+	int C;
+	cin >> C;
+	while (C--)
 	{
-		for (int j = 0; j < board[0].size(); ++j)
+		cin >> W;
+		int N;
+		cin >> N;
+		vector<string> arr(N);
+		for (int i = 0; i < N; ++i)
+			cin >> arr[i];
+		sort(arr.begin(), arr.end());
+		for (int i = 0; i < N; ++i)
 		{
-			cin >> board[i][j];
+			memset(cache, -1, sizeof(cache));
+			S = arr[i];
+			if (Solve(0, 0) == 1)
+				cout << arr[i] << "\n";
 		}
 	}
-	cout << Solve(board, 0, 0, N);
 	return 0;
 }
