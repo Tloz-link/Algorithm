@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 #include <limits>
 
 using namespace std;
@@ -39,6 +40,7 @@ int main() {
 			cin >> A[i];
 		for (int i = 0; i < m; ++i)
 			cin >> B[i];
+		memset(cache, -1, sizeof(cache));
 		// 인덱스를 함수 하나에서 모두 훑기 위해 +2를 했기 때문에 결과에서 2를 빼줘야 함
 		cout << Solve(-1, -1) - 2 << "\n";
 	}

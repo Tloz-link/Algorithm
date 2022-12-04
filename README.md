@@ -24,6 +24,8 @@
 
 [종만 JLIS 합친 LIS](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/JLIS) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/JLIS)
 
+[종만 PI 원주율 외우기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/PI) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/PI)
+
 [종만 WILDCARD 와일드카드](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/WILDCARD) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/WILDCARD)
 
 ### 다익스트라
