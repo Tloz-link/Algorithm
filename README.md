@@ -34,6 +34,8 @@
 
 [종만 POLY 폴리오미노](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/POLY) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/POLY)
 
+[종만 NUMB3RS 두니발 박사의 탈옥](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/NUMB3RS) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/NUMB3RS)
+
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
 
