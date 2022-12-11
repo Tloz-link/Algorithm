@@ -40,6 +40,8 @@
 
 [종만 OCR 광학 문자 인식](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/OCR) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/OCR)
 
+[종만 KLIS K-th Longest Increasing Sequence](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/KLIS) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/KLIS)
+
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
 
