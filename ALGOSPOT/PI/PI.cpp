@@ -4,7 +4,7 @@
 using namespace std;
 
 const int INF = 99999999;
-int cache[10002];
+int cache[10000];
 string N;
 int Classify(int start, int end)
 {

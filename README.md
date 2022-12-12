@@ -38,9 +38,13 @@
 
 [종만 PACKING 여행 짐 싸기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/PACKING) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/PACKING)
 
+[종만 DRAGON 드래곤 커브](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/DRAGON) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/DRAGON)
+
 [종만 OCR 광학 문자 인식](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/OCR) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/OCR)
 
 [종만 KLIS K-th Longest Increasing Sequence](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/KLIS) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/KLIS)
+
+[백준 18353 병사 배치하기](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/18353) SILVER 2 [문제 링크](https://www.acmicpc.net/problem/18353)
 
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
