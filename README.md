@@ -44,6 +44,8 @@
 
 [종만 KLIS K-th Longest Increasing Sequence](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/KLIS) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/KLIS)
 
+[종만 ZIMBABWE 웨브바짐](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/ZIMBABWE) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/ZIMBABWE)
+
 [백준 18353 병사 배치하기](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/18353) SILVER 2 [문제 링크](https://www.acmicpc.net/problem/18353)
 
 ### 다익스트라
