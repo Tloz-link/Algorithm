@@ -50,6 +50,8 @@
 
 [백준 18353 병사 배치하기](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/18353) SILVER 2 [문제 링크](https://www.acmicpc.net/problem/18353)
 
+[백준 12865 평범한 배낭](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/12865) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/12865)
+
 [백준 2098 외판원 순회](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2098) GOLD 1 [문제 링크](https://www.acmicpc.net/problem/2098)
 
 ### 다익스트라
