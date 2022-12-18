@@ -54,6 +54,8 @@
 
 [종만 ZIMBABWE 웨브바짐](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/ZIMBABWE) 난이도 상 [문제 링크](https://algospot.com/judge/problem/read/ZIMBABWE)
 
+[백준 2579 계단 오르기](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2579) SILVER 3 [문제 링크](https://www.acmicpc.net/problem/2579)
+
 [백준 18353 병사 배치하기](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/18353) SILVER 2 [문제 링크](https://www.acmicpc.net/problem/18353)
 
 [백준 12865 평범한 배낭](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/12865) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/12865)
