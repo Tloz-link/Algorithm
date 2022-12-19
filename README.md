@@ -60,6 +60,10 @@
 
 [백준 12865 평범한 배낭](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/12865) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/12865)
 
+[백준 11054 가장 긴 바이토닉 부분 수열](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/11054) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/11054)
+
+[백준 14002 가장 긴 증가하는 부분 수열 4](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/14002) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/14002)
+
 [백준 2098 외판원 순회](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2098) GOLD 1 [문제 링크](https://www.acmicpc.net/problem/2098)
 
 ### 다익스트라
