@@ -66,6 +66,8 @@
 
 [백준 14002 가장 긴 증가하는 부분 수열 4](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/14002) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/14002)
 
+[백준 9252 LCS 2](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/9252) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/9252)
+
 [백준 1520 내리막 길](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1520) GOLD 3 [문제 링크](https://www.acmicpc.net/problem/1520)
 
 [백준 11066 파일 합치기](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/11066) GOLD 3 [문제 링크](https://www.acmicpc.net/problem/11066)
