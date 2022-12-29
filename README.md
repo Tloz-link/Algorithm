@@ -62,6 +62,8 @@
 
 [백준 15486 퇴사 2](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/15486) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/15486)
 
+[백준 2294 동전 2](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2294) GOLD 5 [문제 링크](https://www.acmicpc.net/problem/2294)
+
 [백준 11054 가장 긴 바이토닉 부분 수열](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/11054) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/11054)
 
 [백준 14002 가장 긴 증가하는 부분 수열 4](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/14002) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/14002)
