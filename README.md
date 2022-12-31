@@ -78,6 +78,8 @@
 
 [백준 1937 욕심쟁이 판다](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1937) GOLD 3 [문제 링크](https://www.acmicpc.net/problem/1937)
 
+[백준 1516 게임 개발](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1516) GOLD 3 [문제 링크](https://www.acmicpc.net/problem/1516)
+
 [백준 2098 외판원 순회](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2098) GOLD 1 [문제 링크](https://www.acmicpc.net/problem/2098)
 
 ### 다익스트라
