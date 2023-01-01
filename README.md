@@ -5,7 +5,6 @@
 [종만 CLOCKSYNC 시계 맞추기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/CLOCKSYNC) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/CLOCKSYNC)
 
 ### 분할 정복
-
 [종만 QUADTREE 쿼드 트리 뒤집기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/QUADTREE) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/QUADTREE)
 
 [종만 FENCE 울타리 잘라내기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/FENCE) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/FENCE)
@@ -21,7 +20,6 @@
 [백준 2263 트리의 순회](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2263) GOLD 2 [문제 링크](https://www.acmicpc.net/problem/2263)
 
 ### 동적 계획법
-
 [종만 JLIS 합친 LIS](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/JLIS) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/JLIS)
 
 [종만 PI 원주율 외우기](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/PI) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/PI)
@@ -81,6 +79,9 @@
 [백준 1516 게임 개발](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1516) GOLD 3 [문제 링크](https://www.acmicpc.net/problem/1516)
 
 [백준 2098 외판원 순회](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/2098) GOLD 1 [문제 링크](https://www.acmicpc.net/problem/2098)
+
+### 그리디
+[종만 LUNCHBOX Microwaving Lunch Boxes](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/LUNCHBOX) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/LUNCHBOX)
 
 ### 다익스트라
 [백준 1753 최단경로](https://github.com/Tloz-link/Algorithm/tree/main/BAEKJOON/1753) GOLD 4 [문제 링크](https://www.acmicpc.net/problem/1753)
