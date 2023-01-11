@@ -85,6 +85,9 @@
 
 [종만 ALLERGY 알러지가 심한 친구들](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/ALLERGY) 난이도 중 [문제 링크](https://algospot.com/judge/problem/read/ALLERGY)
 
+### 결정 문제 (이분법)
+[종만 ARCTIC 남극 기지](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/ARCTIC) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/ARCTIC)
+
 ### 그리디
 [종만 LUNCHBOX Microwaving Lunch Boxes](https://github.com/Tloz-link/Algorithm/tree/main/ALGOSPOT/LUNCHBOX) 난이도 하 [문제 링크](https://algospot.com/judge/problem/read/LUNCHBOX)
 
